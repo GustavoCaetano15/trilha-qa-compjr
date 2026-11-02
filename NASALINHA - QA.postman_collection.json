@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "077b9dac-35d6-4198-8010-b7adb9422c00",
+		"name": "NASALINHA - QA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "59414519",
+		"_collection_link": "https://gustavocaetano15-2443644.postman.co/workspace/Gustavo's-Workspace~af30ce96-e0b9-434f-8321-c8c9d688a110/collection/59414519-077b9dac-35d6-4198-8010-b7adb9422c00?action=share&source=collection_link&creator=59414519"
+	},
+	"item": [
+		{
+			"name": "[CT-AUTH-03] Login com dados corretos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "[CT-PTS-03] Consulta do ranking geral via API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "[CT-CHK-03] Realizar check-in com foto via API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
