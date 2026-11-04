@@ -34,3 +34,8 @@ docker compose up -d
 4- Acessar o navegador:
 http://localhost:3000
 
+## Documentação do Projeto
+
+- **Coleção de API:** `NASALINHA - QA.postman_collection.json` (Exportação dos testes de integração do Postman)
+- **Testes de Regressão:** `docs./REGRESSAO.md` (Plano e cenários de regressão da Semana 6)
+- **Relatório Final de Testes:** `docs/RELATORIO.md` (Métricas de execução e distribuição de severidade dos bugs)
